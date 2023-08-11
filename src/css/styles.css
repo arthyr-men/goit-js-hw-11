@@ -20,8 +20,8 @@ button {
     rgb(237, 241, 174) 0%,
     rgb(164, 238, 245) 100%
   );
-  margin: 0 auto 0 auto;
-  padding: 8px 20px;
+  margin: 10 auto 0 auto;
+  padding: 10px 20px;
 }
 button:hover,
 button:focus {
