@@ -7,21 +7,21 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: #5a5b58c4; */
+   background-color: #737472c4; 
   /* color: #fafafa; */
   line-height: 1.5;
 }
 
-button {
+button { 
   border-radius: 4px;
   cursor: pointer;
   background: linear-gradient(
     0deg,
-    rgb(237, 241, 174) 0%,
+    rgb(91, 218, 235) 0%,
     rgb(164, 238, 245) 100%
   );
-  margin: 0 auto 0 auto;
-  padding: 8px 20px;
+  margin: 10 auto 0 auto;
+  padding: 10px 20px;
 }
 button:hover,
 button:focus {
